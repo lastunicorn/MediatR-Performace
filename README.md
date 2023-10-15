@@ -48,3 +48,10 @@ I run the benchmark twice with a small difference.
 When instantiating a new `HttpClient` for each call, an exception is throws in some cases.
 
 - See more details in the `socket.error.md` file.
+
+## Donations
+
+> If you like my work and want to support me, you can buy me a coffee:
+>
+> [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y62EZ8H)
+
